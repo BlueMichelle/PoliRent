@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jsf-tlds2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Spring/.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.1/JSFKickStartWithoutLibs/WebContent/WEB-INF/lib/jsf-tlds.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

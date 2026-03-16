@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="struts">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Spring/.metadata/.plugins/org.jboss.tools.common.projecttemplates/lib/Tiles/struts.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

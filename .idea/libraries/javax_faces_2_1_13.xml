@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="javax.faces-2.1.13">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Spring/.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-2.1/JSFBlankWithLibs/WebContent/WEB-INF/lib/javax.faces-2.1.13.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

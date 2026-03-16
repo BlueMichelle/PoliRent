@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Spring/.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.1/JSFKickStartWithLibs/WebContent/WEB-INF/lib/jsf-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring/.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.1/JSFKickStartWithLibs/WebContent/WEB-INF/lib/jsf-impl.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Spring/.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-2.0/JSFBlankWithLibs/WebContent/WEB-INF/lib/jsf-api-2.0.4-b09.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring/.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-2.0/JSFBlankWithLibs/WebContent/WEB-INF/lib/jsf-impl-2.0.4-b09.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

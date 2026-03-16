@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Spring/.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.2-facelets/FaceletsKickStartWithRILibs/FaceletsKickStartWithRILibs.iml" filepath="$PROJECT_DIR$/Spring/.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.2-facelets/FaceletsKickStartWithRILibs/FaceletsKickStartWithRILibs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.2-facelets/FaceletsKickStartWithoutLibs/FaceletsKickStartWithoutLibs.iml" filepath="$PROJECT_DIR$/Spring/.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.2-facelets/FaceletsKickStartWithoutLibs/FaceletsKickStartWithoutLibs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.1/JSFKickStartWithLibs/JSFKickStartWithLibs.iml" filepath="$PROJECT_DIR$/Spring/.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.1/JSFKickStartWithLibs/JSFKickStartWithLibs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.1/JSFKickStartWithoutLibs/JSFKickStartWithoutLibs.iml" filepath="$PROJECT_DIR$/Spring/.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.1/JSFKickStartWithoutLibs/JSFKickStartWithoutLibs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ProyectoFinal_PoliRect.iml" filepath="$PROJECT_DIR$/.idea/ProyectoFinal_PoliRect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.2/jsf-1.2.iml" filepath="$PROJECT_DIR$/Spring/.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.2/jsf-1.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-2.0/jsf-2.0.iml" filepath="$PROJECT_DIR$/Spring/.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-2.0/jsf-2.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-2.1/jsf-2.1.iml" filepath="$PROJECT_DIR$/Spring/.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-2.1/jsf-2.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-2.2/jsf-2.2.iml" filepath="$PROJECT_DIR$/Spring/.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-2.2/jsf-2.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-2.3/jsf-2.3.iml" filepath="$PROJECT_DIR$/Spring/.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-2.3/jsf-2.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/sportaccess-backend/src/main/main.iml" filepath="$PROJECT_DIR$/Spring/sportaccess-backend/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/sportaccess-backend/src/test/test.iml" filepath="$PROJECT_DIR$/Spring/sportaccess-backend/src/test/test.iml" />
+    </modules>
+  </component>
+</project>

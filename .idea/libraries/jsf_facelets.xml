@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jsf-facelets">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Spring/.metadata/.plugins/org.jboss.tools.common.projecttemplates/lib/facelets/jsf-facelets.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

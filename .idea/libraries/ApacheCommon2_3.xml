@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="ApacheCommon2.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Spring/.metadata/.plugins/org.jboss.tools.common.projecttemplates/lib/ApacheCommon2.3/common-annotations.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring/.metadata/.plugins/org.jboss.tools.common.projecttemplates/lib/ApacheCommon2.3/commons-beanutils.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring/.metadata/.plugins/org.jboss.tools.common.projecttemplates/lib/ApacheCommon2.3/standard.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring/.metadata/.plugins/org.jboss.tools.common.projecttemplates/lib/ApacheCommon2.3/commons-logging.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring/.metadata/.plugins/org.jboss.tools.common.projecttemplates/lib/ApacheCommon2.3/commons-digester.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring/.metadata/.plugins/org.jboss.tools.common.projecttemplates/lib/ApacheCommon2.3/commons-collections.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring/.metadata/.plugins/org.jboss.tools.common.projecttemplates/lib/ApacheCommon2.3/jstl.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

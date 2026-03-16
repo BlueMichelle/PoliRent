@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lib4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Spring/.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.2-facelets/FaceletsKickStartWithRILibs/WebContent/WEB-INF/lib/jsf-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring/.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.2-facelets/FaceletsKickStartWithRILibs/WebContent/WEB-INF/lib/el-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring/.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.2-facelets/FaceletsKickStartWithRILibs/WebContent/WEB-INF/lib/el-ri.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring/.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.2-facelets/FaceletsKickStartWithRILibs/WebContent/WEB-INF/lib/jsf-impl.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
